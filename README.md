@@ -1,1 +1,1 @@
-# FPGA-RTL-Verification-Portfolio
+A comprehensive collection of RTL design and hardware verification projects. This repository demonstrates end-to-end hardware development, ranging from low-level protocol implementation (SPI, I2C, UART) to complex system architectures (AMBA AXI/AHB) and FSM-based logic. Each project focuses on modular RTL coding in Verilog/VHDL and rigorous functional verification using SystemVerilog, ensuring timing closure and protocol compliance.
